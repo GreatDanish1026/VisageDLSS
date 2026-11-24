@@ -4,8 +4,8 @@ Visage (SadSquare Studio), Steam 594330, build 6062332. Exe
 `Visage\Binaries\Win64\Visage-Win64-Shipping.exe` (55,492,096 bytes, PE timestamp 0x5ffb673f, no
 `.bind` section: not encrypted). **UE 4.24** (`++UE4+Release-4.24`). Paks v8, index not encrypted.
 
-StrayDLSS's findings (UE 4.25/4.27, DX11 and DX12) are in the StrayDLSS repository; only what
-differs or was checked for Visage is here.
+The code comes from StrayDLSS (UE 4.27, DX11 and DX12; not public); only what differs or was
+checked for Visage is here.
 
 ## Renderer
 
